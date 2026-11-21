@@ -25,21 +25,21 @@ SIMTELE-RISK es una aplicación web integrada que resuelve cuatro casos de estud
 ## 🚀 Cómo Ejecutar el Proyecto Localmente
 
 1. Clona el repositorio:
-   git clone "https://github.com/javierLuna66/DesafioIntFinal.git"
-   cd frontend
+   git clone "https://github.com/javierLuna66/DesafioIntFinal.git"  
+   cd frontend  
    
 2. Instala las dependencias:
-   npm install
-(Nota: Si hay conflictos de dependencias por versiones antiguas de React, usa npm install --legacy-peer-deps).
+   npm install  
+(Nota: Si hay conflictos de dependencias por versiones antiguas de React, usa npm install --legacy-peer-deps).  
 
 3. Configura las variables de entorno:
-Crea un archivo .env.local en la carpeta frontend/ y agrega tus credenciales de Supabase:
-  VITE_SUPABASE_URL=https://tu-proyecto.supabase.co
+Crea un archivo .env.local en la carpeta frontend/ y agrega tus credenciales de Supabase:  
+  VITE_SUPABASE_URL=https://tu-proyecto.supabase.co  
   VITE_SUPABASE_ANON_KEY=tu_clave_anon_aqui  
 
-4.Ejecuta el servidor de desarrollo:
-  npm run dev
-La aplicación estará disponible en http://localhost:5173.
+4. Ejecuta el servidor de desarrollo:  
+  npm run dev  
+La aplicación estará disponible en http://localhost:5173.  
 
 ## 🔗 Enlaces de Interés
 - Aplicación Desplegada: https://proyectometodosnumericosi.vercel.app/
