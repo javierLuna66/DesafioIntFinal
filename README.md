@@ -42,9 +42,9 @@ Crea un archivo .env.local en la carpeta frontend/ y agrega tus credenciales de 
 La aplicación estará disponible en http://localhost:5173.
 
 ## 🔗 Enlaces de Interés
-Aplicación Desplegada: https://proyectometodosnumericosi.vercel.app/
-Repositorio GitHub: https://github.com/javierLuna66/DesafioIntFinal.git
+- Aplicación Desplegada: https://proyectometodosnumericosi.vercel.app/
+- Repositorio GitHub: https://github.com/javierLuna66/DesafioIntFinal.git
 
 ## 👥 Autores
-Luna Rojas Javier
-Quispe Espinal Cristian Alexander
+- Luna Rojas Javier
+- Quispe Espinal Cristian Alexander
