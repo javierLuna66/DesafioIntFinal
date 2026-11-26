@@ -1,7 +1,5 @@
 # SIMTELE-RISK — Plataforma de Simulación y Análisis de Riesgos
-Integrantes: 
-- Luna Rojas Javier
-- Quispe Espinal Cristian Alexander
+
 **Materia:** Métodos Numéricos — Desafío Integrador Final  
 **Contexto:** Sistema de transporte por cable urbano (inspirado en Mi Teleférico, La Paz).
 
